@@ -3,8 +3,6 @@
 <h3 align="center">I am extremely driven, with a clear goal to succeed.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak736&label=Profile%20views&color=0e75b6&style=flat" alt="ak736" /> </p>
-
 - 🔭 I’m currently pursuing my UG from [SRM Institute of Science and technology, Ramapuram](https://www.srmist.edu.in/)
 
 - 🌱 I’m currently learning **Python, Web Development, React,JS**
