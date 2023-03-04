@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t**
 
+<a href="https://www.github.com/ak736" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ak736?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniket736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket736" height="30" width="40" /></a>
@@ -36,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak736&show_icons=true&locale=en" alt="ak736" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak736&" alt="ak736" /></p>
+
+<a href="http://www.github.com/ak736"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ak736&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
