@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi , I'm Aniket!👋</h1>
 <h3 align="center">I am extremely driven, with a clear goal to succeed.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
