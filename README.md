@@ -1,6 +1,8 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi , I'm Aniket!👋</h1>
-<h3 align="center">I am extremely driven, with a clear goal to succeed.</h3>
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
+</center>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 - 🔭 I’m currently pursuing my UG from [SRM Institute of Science and technology, Ramapuram](https://www.srmist.edu.in/)
