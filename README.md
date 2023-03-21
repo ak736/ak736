@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/ak736?logo=github&style=for-the-bad
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak736&show_icons=true&locale=en&layout=compact" alt="ak736" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak736&show_icons=true&locale=en" alt="ak736" /></p>
 
