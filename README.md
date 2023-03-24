@@ -5,7 +5,7 @@
 </center>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-- 🔭 I’m currently pursuing my UG from [SRM Institute of Science and technology, Ramapuram](https://www.srmist.edu.in/)
+- 🔭 I’m currently pursuing my UG from [SRM Institute of Science and Technology](https://www.srmist.edu.in/)
 
 - 🌱 I’m currently learning **Python, Web Development, React,JS**
 
