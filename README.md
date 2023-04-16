@@ -52,5 +52,6 @@ src="https://img.shields.io/github/followers/ak736?logo=github&style=for-the-bad
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="atom" width="40" height="40"/> </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak736&show_icons=true&locale=en" alt="ak736" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak736&" alt="ak736" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ak736&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="ak736" /></p>
+
 <a href="http://www.github.com/ak736"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ak736&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
