@@ -1,23 +1,21 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
-<h1 align="center">Hi , I'm Aniket!👋</h1>
+<h1 align="center">Hello There! Aniket here!!👋</h1>
 <center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 </center>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-- 🔭 I’m currently pursuing my UG from [SRM Institute of Science and Technology](https://www.srmist.edu.in/)
+- 🔭 I’m currently pursuing my Masters in [University of Southern California](https://www.usc.edu/)
 
-- 🌱 I’m currently learning **Python, Web Development, React,JS**
+- 🌱 I’m currently building on **React, Typescript, Machine Learning, Artificial Intelligence, Python, C++**
 
-- 🧐 Exploring **Web Development**
-
-- 👁 I’m looking for help with **my portfolio website.**
+- 🧐 Exploring **Research opportunities in AI&ML Labs**
 
 - 😏 I'm good at **Flexing my things.**
 
 - 📫 How to reach me **aniketkir63@gmail.com**
 
-- 🗣 Pronouns: **He/His**
+- 🗣 Pronouns: **He/Him**
 
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t**
 
