@@ -161,7 +161,7 @@ src="https://img.shields.io/github/followers/ak736?logo=github&style=for-the-bad
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak736&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak736&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=false&hide=css,html" height="170" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ak736&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ak736&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=10" height="170" alt="streak graph"  />
 </div>
